@@ -1,3 +1,3 @@
-# chichanka_perfume
+# TreeStore
 
 A new Flutter project.
